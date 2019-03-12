@@ -39,25 +39,25 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 
 [プログラム例](https://makecode.microbit.org/_FkpHuT0tiH0w)
 
-![demo1](https://github.com/hirowo/yin_bit/images/yinbit_demo1.gif)
+![demo1](https://github.com/hirowo/yin_bit/blob/master/images/yinbit_demo1.gif)
 
 ### LEDを虹色に光らせて流す
 
 [プログラム例](https://makecode.microbit.org/_2kAJboFzL6Ek)
 
-![demo2](https://github.com/hirowo/yin_bit/images/yinbit_demo2.gif)
+![demo2](https://github.com/hirowo/yin_bit/blob/master/images/yinbit_demo2.gif)
 
 ### Groveのスイッチを使って操作する
 
 [プログラム例](https://makecode.microbit.org/_hW461R9WmUEq)
 
-![demo3](https://github.com/hirowo/yin_bit/images/yinbit_demo3.gif)
+![demo3](https://github.com/hirowo/yin_bit/blob/master/images/yinbit_demo3.gif)
 
 ### 無線を使って遠隔で電飾を操作する
 
 [プログラム例](https://makecode.microbit.org/_WzrJAp9o9Hsq)
 
-![demo4](https://github.com/hirowo/yin_bit/images/yinbit_demo4.gif)
+![demo4](https://github.com/hirowo/yin_bit/blob/master/images/yinbit_demo4.gif)
 
 ## 終わりに
 
