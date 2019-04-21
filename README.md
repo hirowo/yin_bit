@@ -71,6 +71,20 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 
 ![demo4](images/yinbit_demo4.gif)
 
+### おまけ:サーボモーターを動かす
+
+サーボモーターにも使えます。サーボモーターのコードとyin:bitを下記のように繋いでください。
+
+|サーボモーター|yin:bit|
+|:-----------:|:------------:|
+|茶色|GND|
+|赤色|5V|
+|黄色|LED_P0|
+
+[プログラム例](https://makecode.microbit.org/_HUk0EjgW45yJ)
+
+![demo_servo](images/yinbit_servodemo.gif)
+
 ## 終わりに
 
 yin:bitの改良点がありましたら、ぜひIsuuesに書いてください。
