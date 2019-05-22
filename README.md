@@ -85,6 +85,11 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 
 ![demo_servo](images/yinbit_servodemo.gif)
 
+## 使っていただいた作品
+
+### [micro:bitで光るスカート作ったで](https://www.nicovideo.jp/watch/sm35141886)(by[ましぐれ](https://twitter.com/mashigure)さん)
+[![micro:bitで光るスカート作ったで](https://tn.smilevideo.jp/smile?i=35141886.97821)](https://www.nicovideo.jp/watch/sm35141886)
+
 ## 終わりに
 
 yin:bitの改良点がありましたら、ぜひIsuuesに書いてください。
