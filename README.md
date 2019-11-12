@@ -91,7 +91,7 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 [![micro:bitで光るスカート作ったで](https://tn.smilevideo.jp/smile?i=35141886.97821)](https://www.nicovideo.jp/watch/sm35141886)
 
 ### [サイバリアン電飾](https://twitter.com/i/moments/1194228358986383362)(by[RealizePlus](https://twitter.com/Realize_Plus)さん)
-![サイバリアン電飾](https://pbs.twimg.com/media/EJEyO1cU8AIsr2E?format=jpg&name=thumb)
+[![サイバリアン電飾](https://pbs.twimg.com/media/EJEyO1cU8AIsr2E?format=jpg&name=thumb)](https://twitter.com/i/moments/1194228358986383362)
 
 
 ## 終わりに
