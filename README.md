@@ -85,14 +85,16 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 
 ![demo_servo](images/yinbit_servodemo.gif)
 
-## 使っていただいた作品
+## 作品例
 
-### [micro:bitで光るスカート作ったで](https://www.nicovideo.jp/watch/sm35141886)(by[ましぐれ](https://twitter.com/mashigure)さん)
+### [電飾エプロン](https://twitter.com/GomiHgy/status/1124863205099036674)(by[五味](https://twitter.com/GomiHgy))
+[![電飾エプロン](https://pbs.twimg.com/media/D5xRIg5U0AElTor?format=jpg&name=thumb)](https://twitter.com/GomiHgy/status/1124863205099036674)
+
+### [micro:bitで光るスカート作ったで](https://www.nicovideo.jp/watch/sm35141886)(by[ましぐれ](https://twitter.com/mashigure))
 [![micro:bitで光るスカート作ったで](https://tn.smilevideo.jp/smile?i=35141886.97821)](https://www.nicovideo.jp/watch/sm35141886)
 
-### [サイバリアン電飾](https://twitter.com/i/moments/1194228358986383362)(by[RealizePlus](https://twitter.com/Realize_Plus)さん)
+### [サイバリアン電飾](https://twitter.com/i/moments/1194228358986383362)(by[RealizePlus](https://twitter.com/Realize_Plus))
 [![サイバリアン電飾](https://pbs.twimg.com/media/EJEyO1cU8AIsr2E?format=jpg&name=thumb)](https://twitter.com/i/moments/1194228358986383362)
-
 
 ## 終わりに
 
