@@ -60,7 +60,7 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 
 ![demo2](images/yinbit_demo2.gif)
 
-### Groveのスイッチを使って操作する
+### [Groveのジョイスティック](http://wiki.seeedstudio.com/Grove-Thumb_Joystick/)を使って操作する
 
 [プログラム例](https://makecode.microbit.org/_hW461R9WmUEq)
 
@@ -71,6 +71,12 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 [プログラム例](https://makecode.microbit.org/_WzrJAp9o9Hsq)
 
 ![demo4](images/yinbit_demo4.gif)
+
+### [Groveの超音波距離センサ](http://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/)を使って操作する
+
+[プログラム例](https://makecode.microbit.org/_3hC7kxe1rCEK)
+
+![demo5](images/yinbit_demo5.gif)
 
 ### おまけ:サーボモーターを動かす
 
