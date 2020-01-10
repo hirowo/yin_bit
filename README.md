@@ -103,6 +103,9 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 ### [サイバリアン電飾](https://twitter.com/i/moments/1194228358986383362)(by[RealizePlus](https://twitter.com/Realize_Plus))
 [![サイバリアン電飾](https://pbs.twimg.com/media/EJEyO1cU8AIsr2E?format=jpg&name=thumb)](https://twitter.com/i/moments/1194228358986383362)
 
+### [クリスマスツリーをつくろう！](https://youtu.be/_-MV5YMrV5E?t=265)(by[CODEPARK](https://www.myfirstpc.jp/codepark/))
+[![クリスマスツリーをつくろう！](http://img.youtube.com/vi/_-MV5YMrV5E/mqdefault.jpg)](https://youtu.be/_-MV5YMrV5E?t=265)
+
 ## 終わりに
 
 yin:bitの改良点がありましたら、ぜひIsuuesに書いてください。
