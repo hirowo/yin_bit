@@ -47,7 +47,8 @@ Grove用入出力ピン : P1/P2
  - [スイッチサイエンス(コネクタ実装版)](https://www.switch-science.com/catalog/5821/)
  - [マルツオンライン](https://www.marutsu.co.jp/pc/i/1559574/)
  - [シリコンハウス共立](http://blog.siliconhouse.jp/archives/52170700.html)
-
+ - [Shigezone](https://twitter.com/ShigezoneAkiba/status/1170178701419405312)
+ 
 ## サンプル
 
 20個のLEDをついたフルカラーLEDテープを使うことを想定します。
