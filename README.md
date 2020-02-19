@@ -42,6 +42,12 @@ Grove電源供給ピン電圧 : 3.3V
 フルカラーLEDシリアルピン : P0  
 Grove用入出力ピン : P1/P2
 
+## どこで買える？
+ - [スイッチサイエンス](https://www.switch-science.com/catalog/5431/)
+ - [スイッチサイエンス(コネクタ実装版)](https://www.switch-science.com/catalog/5821/)
+ - [マルツオンライン](https://www.marutsu.co.jp/pc/i/1559574/)
+ - [シリコンハウス共立](http://blog.siliconhouse.jp/archives/52170700.html)
+
 ## サンプル
 
 20個のLEDをついたフルカラーLEDテープを使うことを想定します。
