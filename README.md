@@ -23,6 +23,7 @@ Groveコネクタも実装してありますので、センサの値に応じて
 ![v2.0_変更点1](images/yinbit_v2_1.jpg)
 
 またいろんなものに組み込むための固定用ネジ穴が追加されました。固定用ネジ穴部を分離するとyin:bitと同サイズになります。
+
 ![v2.0_変更点2](images/yinbit_v2_2.jpg)
 
 ## 使い方
@@ -130,7 +131,5 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 ## 終わりに
 
 yin:bitの改良点がありましたら、ぜひIsuuesに書いてください。
-
 こんな作品作ったよ！という方は [#yinbit](https://twitter.com/search?q=%23yinbit&src=typed_query) を付けてSNSなどで公開してくださると嬉しいです。
-
 よい電飾ライフを！
