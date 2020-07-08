@@ -131,6 +131,6 @@ micro:bitでフルカラーLEDを使う場合は「拡張機能」の「NeoPixel
 
 yin:bitの改良点がありましたら、ぜひIsuuesに書いてください。
 
-こんな作品作ったよ！という方は #yinbit を付けてSNSなどで公開してくださると嬉しいです。
+こんな作品作ったよ！という方は [#yinbit](https://twitter.com/search?q=%23yinbit&src=typed_query) を付けてSNSなどで公開してくださると嬉しいです。
 
 よい電飾ライフを！
