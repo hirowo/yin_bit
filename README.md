@@ -10,37 +10,51 @@ micro:bit用の拡張モジュールです。micro:bitでフルカラーLED(WS28
 
 Groveコネクタも実装してありますので、センサの値に応じて好きな色に光らせるといったこともできます。
 
+## Ver2.0の特徴
+光らせたいけどはんだ付けは敷居が高い…という声があり、フルカラーLED部分がGrove互換コネクタが付き、はんだ付け無しでyin:bitを扱えるようになりました。
+
+下記のようなGrove互換コネクタ付きフルカラーLEDを使えます。
+ - [Grove - RGB LED (WS2813 Mini)](https://www.seeedstudio.com/Grove-RGB-LED-WS2813-Mini-p-4269.html)
+ - [Grove - RGB LED Ring (24-WS2813 Mini)](https://www.seeedstudio.com/Grove-RGB-LED-Ring-24-WS2813-Mini-p-4202.html)
+ - [Grove - RGB LED Stick (20-WS2813 Mini)](https://www.seeedstudio.com/Grove-RGB-LED-Stick-20-WS2813-Mini-p-4271.html)
+ - [HEX RGB LED Board (SK6812)](https://m5stack.com/products/hex-rgb-led-board-sk6812)
+ - [SK6812 RGB LED Flex-strip](https://m5stack.com/collections/m5-unit/products/sk6812-rgb-led-flex-strip)
+
+![v2.0_変更点1](images/yinbit_v2_1.jpg)
+
+またいろんなものに組み込むための固定用ネジ穴が追加されました。固定用ネジ穴部を分離するとyin:bitと同サイズになります。
+![v2.0_変更点2](images/yinbit_v2_2.jpg)
+
 ## 使い方
 
 1. yin:bitをmicro:bitにネジで固定します。
 
-![demo4](images/yinbit_howto1.jpg)
+![howto1](images/yinbit_howto1.jpg)
 
 2. micro:bitにUSBケーブルを接続します。(プログラムをアプリから無線で書き込む際は不要)
 
-![demo4](images/yinbit_howto2.jpg)
+![howto2](images/yinbit_howto2.jpg)
 
 3. micro:bitにプログラムを書き込みます。(プログラムの例は[サンプル](#サンプル)参照)
 
 4. yin:bitにUSBケーブルを差し込み電源と接続します。
 
-![demo4](images/yinbit_howto4.jpg)
+![howto4](images/yinbit_howto4.jpg)
 
 5. yin:bitのLED電源スイッチをONします。
 
-![demo4](images/yinbit_howto5.jpg)
+![howto5](images/yinbit_howto5.jpg)
 
 ## スペック
-
-サイズ : 50.8 × 22.0 × 6.5mm   
-Grove電源供給ピン電圧 : 3.3V  
-フルカラーLED用電源電圧 : 5V  
-フルカラーLED用電源最大電流値 : 2A
+ - サイズ(v1) : 50.8 × 22.0 × 6.5mm  
+ - サイズ(v2) : 68.8 × 24.8 × 8.0mm
+ - フルカラーLED用電源電圧(v2だとフルカラーLED用Grove互換コネクタ電源電圧) : 5V
+ - フルカラーLED用電源最大電流値 : 2A
+ - 入出力用Grove互換コネクタ電源電圧：3.3 V
 
 ## ピン
-
-フルカラーLEDシリアルピン : P0  
-Grove用入出力ピン : P1/P2
+ - フルカラーLEDシリアルピン(v2だとフルカラーLED用Grove互換コネクタ) : P0 
+ - 入出力用Grove互換コネクタ : P1/P2
 
 ## どこで買える？
  - [スイッチサイエンス](https://www.switch-science.com/catalog/5431/)
