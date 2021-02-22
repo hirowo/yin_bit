@@ -10,6 +10,9 @@ micro:bit用の拡張モジュールです。micro:bitでフルカラーLED(WS28
 
 Groveコネクタも実装してありますので、センサの値に応じて好きな色に光らせるといったこともできます。
 
+## 説明動画
+[![](http://img.youtube.com/vi/7cNPFFAmlIE/0.jpg)](http://www.youtube.com/watch?v=7cNPFFAmlIE "yin:bit紹介動画")
+
 ## Ver2.0の特徴
 光らせたいけどはんだ付けは敷居が高い…という声があり、フルカラーLED部分がGrove互換コネクタが付き、はんだ付け無しでyin:bitを扱えるようになりました。
 
